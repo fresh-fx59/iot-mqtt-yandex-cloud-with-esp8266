@@ -69,5 +69,6 @@ openssl req -x509 \
   -days 365 \
   -subj '/CN=localhost'
 ```
-
+# Useful links
+[Free public brockers](https://github.com/mqtt/mqtt.org/wiki/public_brokers)
 Based on [this](https://projectalt.ru/publ/arduino_esp8266_i_esp32/programmirovanie/prostoe_podkljuchenie_esp8266_k_jandeks_alise/11-1-0-32) post
