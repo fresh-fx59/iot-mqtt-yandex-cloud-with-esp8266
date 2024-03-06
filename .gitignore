@@ -31,4 +31,4 @@
 *.out
 *.app
 .DS_Store
-include/secret copy.h
+include/secret.h
